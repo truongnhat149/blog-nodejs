@@ -1,4 +1,4 @@
-# courses education nodejs
+# Courses education nodejs
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -9,5 +9,6 @@
 * Nodejs version : 1.0.0
 * Expressjs version :  4.17.1
 * MongoDB Compasss version : 5.0.9 community
+* Bootstrap 4
 * Library : in package.json
 ## Sources 
