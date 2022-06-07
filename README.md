@@ -6,7 +6,7 @@
 ## General info
 * The project created a simple website for customers to interact with purchase courses.
 ## Technologies
-* Nodejs version : 1.0.0
+* Nodejs version : 16.13.1
 * Expressjs version :  4.17.1
 * MongoDB Compasss version : 5.0.9 community
 * Bootstrap 4
