@@ -19,6 +19,12 @@ class SiteController {
     search(req, res) {
         res.render('search');
     }
+
+    // [GET] /log-out
+
+    logOut(req, res) {
+        res.render('log-out');
+    }
 }
 
 module.exports = new SiteController;

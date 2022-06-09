@@ -2,6 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Setup](#setup)
 * [Sources](#source)
 ## General info
 * The project created a simple website for customers to interact with purchase courses.
@@ -11,4 +12,9 @@
 * MongoDB Compasss version : 5.0.9 community
 * Bootstrap 4
 * Library : in package.json
+## Setup
+$ cd ../course-crud-nodejs
+$ npm install
+$ npm start
+$ npm run watch
 ## Sources 

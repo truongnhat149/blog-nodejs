@@ -1,8 +1,33 @@
-h1 {
-  color: red; }
+.course-list {
+  list-style-type: none;
+  margin: 12px 0 0 -115px; }
 
-h2 {
-  color: green; }
+.col-sm-6, .col-lg-4 {
+  min-height: 450px; }
 
-h5 {
-  color: green; }
+.icon-item {
+  line-height: 1.6;
+  font-size: 14px;
+  height: 14px; }
+
+.card-img-top {
+  height: 250px; }
+
+.card-body {
+  min-height: 240px; }
+
+.card-text {
+  min-height: 100px; }
+
+.user-avatar {
+  border-radius: 50%;
+  margin-right: 4px;
+  height: 28px;
+  width: 28px; }
+
+#select-option-checkbox {
+  width: 180px;
+  margin: 0 16px; }
+
+.th-col {
+  display: flex; }
