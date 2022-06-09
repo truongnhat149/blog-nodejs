@@ -3,7 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Sources](#source)
+* [Images](#images)
 ## General info
 * The project created a simple website for customers to interact with purchase courses.
 ## Technologies
@@ -13,8 +13,9 @@
 * Bootstrap 4
 * Library : in package.json
 ## Setup
-$ cd ../course-crud-nodejs
-$ npm install
-$ npm start
-$ npm run watch
-## Sources 
+* $ cd ../course-crud-nodejs
+* $ npm install
+* $ npm start
+* $ npm run watch
+## Images 
+![alt text](https://wiki.matbao.net/wp-content/uploads/2019/09/github-la-gi-1-1200x700.jpg)
